@@ -1,6 +1,7 @@
 import React from "react";
 
 import "./App.css";
+import "react-responsive-carousel/lib/styles/carousel.min.css";
 import Header from "./component/header";
 import Main from "./component/main";
 import Footer from "./component/footer";
