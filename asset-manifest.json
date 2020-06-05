@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ewarren/static/css/main.ad162bef.chunk.css",
+    "main.js": "/ewarren/static/js/main.09e5b6be.chunk.js",
+    "main.js.map": "/ewarren/static/js/main.09e5b6be.chunk.js.map",
+    "runtime-main.js": "/ewarren/static/js/runtime-main.f79f6e52.js",
+    "runtime-main.js.map": "/ewarren/static/js/runtime-main.f79f6e52.js.map",
+    "static/css/2.b692f1b9.chunk.css": "/ewarren/static/css/2.b692f1b9.chunk.css",
+    "static/js/2.d918a492.chunk.js": "/ewarren/static/js/2.d918a492.chunk.js",
+    "static/js/2.d918a492.chunk.js.map": "/ewarren/static/js/2.d918a492.chunk.js.map",
+    "index.html": "/ewarren/index.html",
+    "precache-manifest.b61e4e4b26f61d3a23615feb00adeafa.js": "/ewarren/precache-manifest.b61e4e4b26f61d3a23615feb00adeafa.js",
+    "service-worker.js": "/ewarren/service-worker.js",
+    "static/css/2.b692f1b9.chunk.css.map": "/ewarren/static/css/2.b692f1b9.chunk.css.map",
+    "static/css/main.ad162bef.chunk.css.map": "/ewarren/static/css/main.ad162bef.chunk.css.map",
+    "static/js/2.d918a492.chunk.js.LICENSE.txt": "/ewarren/static/js/2.d918a492.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/ewarren/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f79f6e52.js",
+    "static/css/2.b692f1b9.chunk.css",
+    "static/js/2.d918a492.chunk.js",
+    "static/css/main.ad162bef.chunk.css",
+    "static/js/main.09e5b6be.chunk.js"
+  ]
+}
